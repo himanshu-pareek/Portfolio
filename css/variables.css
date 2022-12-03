@@ -1,0 +1,11 @@
+:root {
+    --len_xxx-small: 1px;
+    --len_xx-small: 2px;
+    --len_x-small: 4px;
+    --len_small: 8px;
+    --len_medium: 16px;
+    --len_large: 24px;
+    --len_x-large: 32px;
+    --len_xx-large: 48px;
+    --len_xxx-large: 64px;
+}

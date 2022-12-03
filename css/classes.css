@@ -1,0 +1,9 @@
+@import url("./variables.css");
+
+.p_xxx-small {
+    padding: var(--len_xxx-small);
+}
+
+.p-left_xxx-small {
+    padding-left: var(--len_xxx-small);
+}
